@@ -23,11 +23,11 @@
 #'
 #' @details Further details can be found at \href{https://osf.io/5admx/}{https://osf.io/5admx/}.
 #'
-#' @usage data("barroso2020")
+#' @usage data("barroso2021")
 #'
 #' @references
 #' \insertAllCited{}
-"barroso2020"
+"barroso2021"
 
 
 #' @title Studies on Age Differences in Executive Functioning
@@ -54,11 +54,11 @@
 #'
 #' @details Further details can be found at \href{https://osf.io/bcywg/}{https://osf.io/bcywg/}.
 #'
-#' @usage data("maldonado2018")
+#' @usage data("maldonado2020")
 #'
 #' @references
 #' \insertAllCited{}
-"maldonado2018"
+"maldonado2020"
 
 
 #' Studies on juvenile recidivism
@@ -85,7 +85,6 @@
 #'
 #' @references Wibbelink et al. (2017). A meta-analysis of the association between mental health disorders and juvenile recidivism.
 #' \emph{Aggression and Violent Behavior}, \emph{33}, 78-90.
-#' (\href{https://www.sciencedirect.com/science/article/pii/S1359178917300149}{ScienceDirect})
 #'
 #' @source \href{https://www.tqmp.org/RegularArticles/vol12-3/p154/}{The Quantitative Methods in Psychology}
 "wibbelink2017"
@@ -413,7 +412,7 @@
 #' * \code{pub_year}: year of publication
 #' * \code{n}: sample size
 #' * \code{design}: within or between subjects design
-#' * \code{ent_alpha}: entitativity score
+#' * \code{ent_alpha}: reliability of the entitativity measure
 #' * \code{yi}: effect size (fisher-z)
 #' * \code{vi}: sampling variance (SE^2)
 #' @md
@@ -481,11 +480,11 @@
 #'
 #' @details Further details can be found at \href{https://osf.io/34xyw/}{https://osf.io/34xyw/}
 #'
-#' @usage data("noble2018")
+#' @usage data("noble2019")
 #'
 #' @references
 #' \insertAllCited{}
-"noble2018"
+"noble2019"
 
 
 #' @title  Studies on the advantage of bilingualism in children: a meta-analytic review
@@ -593,13 +592,13 @@
 #'
 #' @md
 #'
-#' @details Further details can be found at \href{https://osf.io/wp8u7/}{https://osf.io/wp8u7/}
+#' @details Further details can be found at \href{https://psyarxiv.com/gjqcs/}{https://psyarxiv.com/gjqcs/}
 #'
-#' @usage data("spaniol2019")
+#' @usage data("spaniol2020")
 #'
 #' @references
 #' \insertAllCited{}
-"spaniol2019"
+"spaniol2020"
 
 
 
@@ -758,11 +757,11 @@
 #'
 #' @details Further details can be found at \href{https://osf.io/f89ur/}{https://osf.io/f89ur/}
 #'
-#' @usage data("stramaccia2020")
+#' @usage data("stramaccia2021")
 #'
 #' @references
 #' \insertAllCited{}
-"stramaccia2020"
+"stramaccia2021"
 
 
 #' @title Studies on the effects of transcranial direct current stimulation on inhibitory control
